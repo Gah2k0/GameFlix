@@ -151,10 +151,11 @@ footer {
 
 footer a {
     color: #fff;
+    margin-right: 10px;
 }
 
 footer a:hover {
-    transition: ease-in-out 1s;
+    transition: ease-in-out .5s;
     color: var(--azul);
 }
 
